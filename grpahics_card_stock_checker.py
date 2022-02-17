@@ -24,9 +24,9 @@ while True:
 
         smtp_server="outlook.office365.com"
         port=587
-        sender_email="mathewthomas99@hotmail.com"
-        password="Iwasborn7-19-99"
-        recieving_email="thomasm99@hotmail.com"
+        sender_email="youremailhere"
+        password="yourpasshere"
+        recieving_email="emailtorecievemessage"
         message="""\
         subject:grpahics card
 
